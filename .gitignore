@@ -1,0 +1,22 @@
+# Локальні файли налаштувань IDE
+.vscode/
+.idea/
+
+# Лог-файли
+*.log
+
+# Файли ОС
+.DS_Store
+Thumbs.db
+
+# Кеш браузера
+.cache/
+*.tmp
+
+# Тимчасові файли редактора
+*.swp
+*.swo
+*.bak
+
+# Файли npm
+npm-debug.log*
